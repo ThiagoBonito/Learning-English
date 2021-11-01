@@ -1,6 +1,13 @@
 # App1
 ## Projeto desenvolvido através de vídeo aulas da plataforma Udemy, em que o projeto tem como finalidade ser um jogo que ensina inglês para as pessoas.
 
+# Prints do Programa:
+![Aprendendo_Inglês](https://user-images.githubusercontent.com/90625307/139698239-dfa16ded-be27-4c84-8f0f-34b8770db590.png)
+<hr>
+
+<hr>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
